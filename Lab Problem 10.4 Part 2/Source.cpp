@@ -59,8 +59,6 @@ bool is_card_valid(int digits[], int size) {
     int third_sum;
     int digi[8];
     int x = 0;
-   
-
 
     for (int i = 0; i < 16; i++) {
         if (i % 2 != 0) {
